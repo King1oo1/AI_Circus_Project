@@ -51,7 +51,8 @@ An advanced AI-powered art therapy system that transforms emotional expressions 
 2. **Enable GPU**: Runtime → Change runtime type → T4 GPU
 3. **Run All Cells**: Execute the complete pipeline
 4. **Launch Interface**: Get your public Gradio URL
-5. **My File Link**: [Run file]([https://colab.research.google.com/drive/1Ds-2fWxym6I5hlk1cpEQ-XFOGcYNb_Vy?usp=sharing](https://colab.research.google.com/drive/1Ds-2fWxym6I5hlk1cpEQ-XFOGcYNb_Vy?usp=sharing))
+5. **My File Link**: [Run file](https://colab.research.google.com/drive/1Ds-2fWxym6I5hlk1cpEQ-XFOGcYNb_Vy?usp=sharing)
+
 
 ### Local Installation
 ```bash
