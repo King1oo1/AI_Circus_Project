@@ -7,7 +7,7 @@
 **Project Title:** 🎨 AI Emotional Art Therapy Studio  
 
 ## 📹 Project Demonstration
-[Watch the Demo](https://drive.google.com/file/d/1LRjiZ05QbRHmNadoVCYlhNtMPwraAQhh/view?usp=sharing)
+[Watch the Demo](https://streamable.com/qsbgug)
 
 ---
 
