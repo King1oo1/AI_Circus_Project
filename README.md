@@ -49,10 +49,12 @@ An advanced AI-powered art therapy system that transforms emotional expressions 
 
 ## OR
 #### Step-by-Step Setup:
-1. **Open in Colab**: Click the Colab badge above
-2. **Enable GPU Acceleration**:
+1. **Open in Colab**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/ai-art-therapy/blob/main/AI_Art_Therapy_Project.ipynb)
+   
+3. **Enable GPU Acceleration**:
    - Go to `Runtime` → `Change runtime type`
    - Select `T4 GPU` as hardware accelerator
-3. **Run the Notebook**:
+   
+4. **Run the Notebook**:
    - Click `Runtime` → `Run all` or press `Ctrl+F9`
 
