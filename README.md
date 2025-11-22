@@ -1,13 +1,19 @@
-# AI-4-Creativity-Project-Template (25/26)
+# 🎨 AI Emotional Art Therapy Studio
 
+## Student Information
+**Name:** Chandandeep Singh  
+**Student Number:** 2306140  
+**Course:** AI 4 Creativity  
+**Project Title:** 🎨 AI Emotional Art Therapy Studio  
 
-## Student name: Chandandeep Singh 
-## Student number: 2306140
-## Project title: 🎨 AI Emotional Art Therapy Studio
-## Link to project video recording: 
+## 📹 Project Demonstration
+[![Watch the Demo](https://img.shields.io/badge/Video_Demo-Watch_Here-red?style=for-the-badge&logo=youtube)]([Your Video Link Here])
 
+---
 
-An advanced AI-powered art therapy system that transforms emotional expressions into therapeutic artwork using Stable Diffusion and deep emotional analysis. Experience the future of digital art therapy through emotionally-intelligent AI generation.
+## 🌟 Project Overview
+
+An advanced AI-powered art therapy system that transforms emotional expressions into therapeutic artwork using Stable Diffusion and deep emotional analysis. Experience the future of digital art therapy through emotionally-intelligent AI generation that bridges technology and mental wellness.
 
 ---
 
@@ -34,28 +40,19 @@ An advanced AI-powered art therapy system that transforms emotional expressions 
 - **Reflective Prompts**: Guided questions for emotional processing
 - **Progress Tracking**: Monitor emotional journey through artwork
 
+
 ---
 
 ## 🚀 Quick Start
+### Google Colab (Recommended for Beginners)
+🔗 **Live Demo**: [My Colab Notebook](https://colab.research.google.com/drive/1Ds-2fWxym6I5hlk1cpEQ-XFOGcYNb_Vy?usp=sharing)
 
-### Google Colab (Recommended)
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/your-username/ai-art-therapy/blob/main/AI_Art_Therapy_Project.ipynb)
+## OR
+#### Step-by-Step Setup:
+1. **Open in Colab**: Click the Colab badge above
+2. **Enable GPU Acceleration**:
+   - Go to `Runtime` → `Change runtime type`
+   - Select `T4 GPU` as hardware accelerator
+3. **Run the Notebook**:
+   - Click `Runtime` → `Run all` or press `Ctrl+F9`
 
-1. **Upload to Colab**: Open `AI_Art_Therapy_Project.ipynb` in Google Colab
-2. **Enable GPU**: Runtime → Change runtime type → T4 GPU
-3. **Run All Cells**: Execute the complete pipeline
-4. **Launch Interface**: Get your public Gradio URL
-5. **My File Link**: [Run file](https://colab.research.google.com/drive/1Ds-2fWxym6I5hlk1cpEQ-XFOGcYNb_Vy?usp=sharing)
-
-
-### Local Installation
-```bash
-# Create environment
-conda create -n ai-art-therapy python=3.10
-conda activate ai-art-therapy
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Launch application
-python src/interface.py
